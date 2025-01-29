@@ -40,3 +40,26 @@ The third set of data is used here, and since there are three levels of files, m
 
 ![image](https://github.com/user-attachments/assets/c4c15802-3704-4785-ac5a-a2373601ff93)
 
+I tried to add two extra values based on the video.
+
+![image](https://github.com/user-attachments/assets/96753991-344f-41a1-91d9-679abb4f8210)
+
+In my workshop 7, I learned how stars are drawn, so I wanted to make stars to the mix. When it's daytime the star is black and when it's nighttime the star is yellow.
+
+![image](https://github.com/user-attachments/assets/6c590278-6d4e-4e4e-a449-647dae5d69de)
+
+![image](https://github.com/user-attachments/assets/259ae747-422c-42ce-a245-7d2f19c63d78)
+
+Although the white star was successfully generated, the color did not change according to the condition I gave. After checking, it was dayNight that was missing a condition.
+
+![image](https://github.com/user-attachments/assets/0fb41d8e-a056-48a3-befe-b95e32a4a609)
+
+![image](https://github.com/user-attachments/assets/aa9a2b62-f0b9-4511-87dc-3a044d5bbc87)
+
+![image](https://github.com/user-attachments/assets/11734697-c1b1-416f-9b53-94ca14053e01)
+
+We will get randomly positioned stars with each refresh, and the color will change according to Day or Night.
+
+##### reflection
+
+Most of what I’ve learned is universally applicable. As long as the sequence is correct and the conditions don’t conflict, multiple functions can be executed on a single page without issues. This realization has made me more confident in structuring my code efficiently. By carefully planning the logic and ensuring different functions work harmoniously, I can maximize reusability and streamline the development process.
